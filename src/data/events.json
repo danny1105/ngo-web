@@ -5,7 +5,7 @@
 			"description": "This charity is to help people in villages",
 			"date": "2019-08-11",
 			"organizer": "Starks",
-			"funding": "Y",
+			"funding": true,
 			"fundedBy": "NGO India"
 		},
 		{
@@ -13,7 +13,7 @@
 			"description": "This activity will help people in clearing their minds",
 			"date": "2019-07-15",
 			"organizer": "Lannisters",
-			"funding": "Y",
+			"funding": true,
 			"fundedBy": "NGO India"
 		},
 		{
@@ -21,7 +21,7 @@
 			"description": "This march is to protest against the ever increasing corruption.",
 			"date": "2019-07-25",
 			"organizer": "Targaryens",
-			"funding": "N",
+			"funding": false,
 			"fundedBy": ""
 		}
 	]

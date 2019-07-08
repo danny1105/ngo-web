@@ -8,19 +8,50 @@ import Events from "../components/Events";
 function Main() {
 	return (
 		<Router>
-			<div>
-				<nav>
+			<div className="main">
+				<nav
+					className="nav"
+					style={{
+						width: "100%",
+						clear: "both",
+						display: "inline-block"
+					}}
+				>
 					<ul>
-						<li>
+						<li
+							style={{
+								float: "left",
+								padding: "20px",
+								listStyle: "none"
+							}}
+						>
 							<Link to="/">Home</Link>
 						</li>
-						<li>
+						<li
+							style={{
+								float: "left",
+								padding: "20px",
+								listStyle: "none"
+							}}
+						>
 							<Link to="/about">About</Link>
 						</li>
-						<li>
+						<li
+							style={{
+								float: "left",
+								padding: "20px",
+								listStyle: "none"
+							}}
+						>
 							<Link to="/users">Users</Link>
 						</li>
-						<li>
+						<li
+							style={{
+								float: "left",
+								padding: "20px",
+								listStyle: "none"
+							}}
+						>
 							<Link to="/events">Events</Link>
 						</li>
 					</ul>
