@@ -1,0 +1,28 @@
+{
+	"events": [
+		{
+			"name": "Run for Money",
+			"description": "This charity is to help people in villages",
+			"date": "2019-08-11",
+			"organizer": "Starks",
+			"funding": "Y",
+			"fundedBy": "NGO India"
+		},
+		{
+			"name": "Meditation for All",
+			"description": "This activity will help people in clearing their minds",
+			"date": "2019-07-15",
+			"organizer": "Lannisters",
+			"funding": "Y",
+			"fundedBy": "NGO India"
+		},
+		{
+			"name": "Candle March",
+			"description": "This march is to protest against the ever increasing corruption.",
+			"date": "2019-07-25",
+			"organizer": "Targaryens",
+			"funding": "N",
+			"fundedBy": ""
+		}
+	]
+}

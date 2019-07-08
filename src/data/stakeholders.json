@@ -1,0 +1,32 @@
+{
+	"users": [
+		{
+			"name": "Alok Nath",
+			"memberType": "Individual",
+			"age": 69,
+			"members": "",
+			"associatedWith": ["Starks", "lannisters"]
+		},
+		{
+			"name": "Vijay Deenanath Chauhan",
+			"memberType": "Individual",
+			"age": 36,
+			"members": "",
+			"associatedWith": ["Starks", "lannisters"]
+		},
+		{
+			"name": "Raas Al Ghul",
+			"memberType": "Organization",
+			"age": 63,
+			"members": "",
+			"associatedWith": ["Starks", "lannisters"]
+		},
+		{
+			"name": "Alok Nath",
+			"memberType": "Individual",
+			"age": 63,
+			"members": ["Bruce Wayne"],
+			"associatedWith": ["Starks", "lannisters"]
+		}
+	]
+}
